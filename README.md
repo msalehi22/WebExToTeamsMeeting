@@ -1,6 +1,6 @@
 # WebExToTeamsMeeting
 
-The script can be used to migrate WebEx meetings to Teams meeting for a user. This is a proof of concept how to use APIs to programmatically update WebEx meetings to Teams Meetings. Not production-ready code yet.
+The script can be used to migrate WebEx meetings to Teams meeting for a user. This is a proof of concept how to use APIs to programmatically update WebEx meetings to Teams Meetings.
 
 It still has the most important element: How to connect to exchange and do the actual conversion.
 
